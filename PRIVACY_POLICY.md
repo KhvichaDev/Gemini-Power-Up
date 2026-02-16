@@ -18,5 +18,6 @@ The Extension operates on the Google Gemini website. Your interactions with Gemi
 ## Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be posted on this page.
 
-## Contact
-If you have any questions about this Privacy Policy, please contact us via the Chrome Web Store support page.
+## Contact & Support
+If you have any questions, bug reports, or feature requests, please open an issue on our GitHub repository:
+*   **GitHub Issues:** https://github.com/KhvichaDev/Gemini-Power-Up/issues
