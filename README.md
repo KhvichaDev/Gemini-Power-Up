@@ -11,7 +11,7 @@ Transform Google Gemini from a simple chatbot into a full-featured professional 
 ### 📋 PROJECT & TASK MANAGEMENT
 A complete project management system built right into Gemini. Create projects, organize tasks with priorities and due dates, add subtasks, and track progress — all without leaving your AI workspace.
 
-* ✦ **Task Manager** — Full-featured with projects, priorities (Critical/High/Medium/Low), subtasks, due dates, and completion tracking
+✦ **Task Manager** — Full-featured with projects, priorities (Critical/High/Medium/Low), subtasks, due dates, and completion tracking
 * ✦ **Plan with AI** — Describe your idea and let AI generate a complete project plan with tasks, subtasks, and deadlines automatically
 * ✦ **Daily Briefing** — Start every day with an intelligent summary of your pending tasks, upcoming deadlines, and overdue items
 * ✦ **Pomodoro Timer** — Built-in focus timer with customizable work/break sessions, sound alerts, and cross-tab synchronization
