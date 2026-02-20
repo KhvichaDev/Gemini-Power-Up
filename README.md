@@ -127,10 +127,9 @@ Control your workspace from anywhere through Telegram.
 
 ---
 
-Built with ❤️ by KhvichaDev Open-source on GitHub — suggestions, bug reports, and contributions welcome.
+Built with ❤️ by **KhvichaDev** Open-source on GitHub — suggestions, bug reports, and contributions welcome.
 
-🔗 Install from Chrome Web Store: Power-Up for Gemini
+**Works on:** [gemini.google.com](https://gemini.google.com)  
+**Privacy:** All data is stored locally in your browser. No external tracking, no data collection.
 
-Works on: gemini.google.com
-
-Privacy: All data is stored locally in your browser. No external tracking, no data collection.
+**🔗 Install from Chrome Web Store:** [Power-Up for Gemini](https://chromewebstore.google.com/detail/power-up-for-gemini/cnhmdgnlbdjngjpcbkahodfgccggonhp)
