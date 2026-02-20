@@ -132,4 +132,5 @@ Built with ❤️ by **KhvichaDev** Open-source on GitHub — suggestions, bug r
 **Works on:** [gemini.google.com](https://gemini.google.com)  
 **Privacy:** All data is stored locally in your browser. No external tracking, no data collection.
 
-**🔗 Install from Chrome Web Store:** [Power-Up for Gemini](https://chromewebstore.google.com/detail/power-up-for-gemini/cnhmdgnlbdjngjpcbkahodfgccggonhp)
+## 📥 Installation
+[![Available in the Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Free-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/power-up-for-gemini/cnhmdgnlbdjngjpcbkahodfgccggonhp)
