@@ -139,10 +139,19 @@ Control your workspace from anywhere through Telegram.
 
 ---
 
-Built with ❤️ by **KhvichaDev** Open-source on GitHub — suggestions, bug reports, and contributions welcome.
+Built with ❤️ by **KhvichaDev**. All Rights Reserved.
 
 **Works on:** [gemini.google.com](https://gemini.google.com)  
 **Privacy:** All data is stored locally in your browser. No external tracking, no data collection.
 
 ## 📥 Installation
 [![Available in the Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Free-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/power-up-for-gemini/cnhmdgnlbdjngjpcbkahodfgccggonhp)
+
+---
+
+## 📄 License & Commercial Use
+This software is proprietary. **© KhvichaDev. All Rights Reserved.**
+
+You may not copy, modify, distribute, or use the source code of this extension for your own projects without explicit permission. The source code is provided for transparent review purposes only.
+
+If you are interested in using this codebase for commercial purposes, custom enterprise integrations, or purchasing a license, please contact me directly at: **[khvichadev@gmail.com]**
