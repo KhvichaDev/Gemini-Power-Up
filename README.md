@@ -6,15 +6,7 @@ Transform Google Gemini from a simple chatbot into a full-featured professional 
 
 👉 **[Add to Chrome now and unlock the full potential of Gemini!](https://chromewebstore.google.com/detail/power-up-for-gemini/cnhmdgnlbdjngjpcbkahodfgccggonhp)**
 
-<br>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=KXaGsmSXZP4" target="_blank">
-    <img src="overview.png" alt="Watch the Overview" style="width:100%; max-width:800px; border-radius:10px;">
-  </a>
-</div>
-
-<br>
+[![Watch the Overview](./overview.png)](https://www.youtube.com/watch?v=KXaGsmSXZP4)
 
 [![Chrome Store](https://img.shields.io/badge/Chrome_Store-View-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/power-up-for-gemini/cnhmdgnlbdjngjpcbkahodfgccggonhp) [![Changelog](https://img.shields.io/badge/Changelog-Releases-green?style=for-the-badge&logo=github)](https://github.com/KhvichaDev/Gemini-Power-Up/releases) [![Support](https://img.shields.io/badge/Support-Issues-red?style=for-the-badge&logo=github)](https://github.com/KhvichaDev/Gemini-Power-Up/issues)
 
