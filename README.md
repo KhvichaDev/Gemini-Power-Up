@@ -8,6 +8,10 @@ Transform Google Gemini from a simple chatbot into a full-featured professional 
 
 <br>
 
+[![Power-Up for Gemini Extension](https://img.youtube.com/vi/KXaGsmSXZP4/maxresdefault.jpg)](https://www.youtube.com/watch?v=KXaGsmSXZP4)
+
+<br>
+
 [![Chrome Store](https://img.shields.io/badge/Chrome_Store-View-blue?style=for-the-badge&logo=google-chrome)](https://chromewebstore.google.com/detail/power-up-for-gemini/cnhmdgnlbdjngjpcbkahodfgccggonhp) [![Changelog](https://img.shields.io/badge/Changelog-Releases-green?style=for-the-badge&logo=github)](https://github.com/KhvichaDev/power-up-for-gemini/releases) [![Support](https://img.shields.io/badge/Support-Issues-red?style=for-the-badge&logo=github)](https://github.com/KhvichaDev/power-up-for-gemini/issues)
 
 ---
