@@ -19,5 +19,5 @@ The Extension operates on the Google Gemini website. Your interactions with Gemi
 We may update this Privacy Policy from time to time. Any changes will be posted on this page.
 
 ## Contact & Support
-If you have any questions, bug reports, or feature requests, please open an issue on our GitHub repository:
+If you have any questions, bug reports, or feature requests, please open an issue on Power-Up for Gemini's GitHub repository:
 *   **GitHub Issues:** https://github.com/KhvichaDev/Gemini-Power-Up/issues
