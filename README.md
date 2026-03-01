@@ -8,7 +8,12 @@ Transform Google Gemini from a simple chatbot into a full-featured professional 
 
 <br>
 
-[![Power-Up for Gemini Extension](https://img.youtube.com/vi/KXaGsmSXZP4/maxresdefault.jpg)](https://www.youtube.com/watch?v=KXaGsmSXZP4)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=KXaGsmSXZP4" target="_blank">
+    <img src="https://img.youtube.com/vi/KXaGsmSXZP4/maxresdefault.jpg" alt="Power-Up for Gemini Extension" style="width:100%;max-width:800px;position:relative;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:15%;height:15%;">
+  </a>
+</div>
 
 <br>
 
